@@ -14,10 +14,7 @@ The project benchmarks the performance of LLMs in these specific CTI tasks, iden
 ### Table of Contents
 - [Project Overview](#project-overview)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ### Installation
 
