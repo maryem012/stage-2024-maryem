@@ -1,0 +1,3 @@
+Question,Options,Correct Answer,Predicted Answer,Match
+"Given a scenario where an adversary is using Command and Control (C2) over Tor network (MITRE ATT&CK T1036), which Diamond Model feature is primarily affected?","['Adversary', 'Infrastructure', 'Capability', 'Victim']",B,C,False
+"During an analysis of an intrusion, the analyst is trying to determine the potential number of victims (MITRE ATT&CK T1087). Which meta-feature of the Diamond Model would be most relevant to this process?","['Timestamp', 'Phase', 'Direction', 'Victim']",D,D,True
