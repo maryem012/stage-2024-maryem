@@ -14,10 +14,7 @@ The project benchmarks the performance of LLMs in these specific CTI tasks, iden
 ### Table of Contents
 - [Project Overview](#project-overview)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ### Installation
 
@@ -32,4 +29,4 @@ Before setting up the project, make sure you have the following:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/maryem012/summerIntership_2024.git
+   git clone https://github.com/maryem012/stage-2024-maryem.git
